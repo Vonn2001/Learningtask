@@ -1,19 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Recipes </title>
+<title> My Home Page </title>
 </head>
 <body>
-<h1>Recipes</h1>
-<ul>
-<li><a href="index.html">Home</a></li>
-<li><a href="Chilli con Carne.html">Chilli con Carne</a></li>
-<li><a href="Omelette.html">Omelette</a></li>
-<li><a href="Pad Thai Chicken.html">Pad Thai Chicken</a></li>
-<li><a href="Thai Green Curry.html">Thai Green Curry</a></li>
-<li><a href="Pineapple Chicken.html">Pineapple Chicken</a></li>
-<li><a href="Vegetarian Rice.html">Vegetarian Rice</a></li>
-<li><a href="Salmon in the oven.html">Salmon in the oven</a></li>
-</ul>
+<h1>Poverty!</h1>
+<h3>The Philippines has a fairly high poverty rate with more than 16% of the population living below the poverty line. Because of the many people reliant on agriculture for an income and inequality in wealth distribution, about 17.6 million Filipinos struggle to afford basic necessities. From 2015 to 2020, the rate of poverty declined from 21.6% to 16.6%. Philippine President Rodrigo Duterte aims to reduce the rate of poverty to 14% by 2022. Through its strategy, AmBisyon 2040, the Philippine government plans to eradicate extreme poverty by 2040. Furthermore, the government has implemented various programs and reforms to reduce poverty by targeting education, healthcare and the overall economy. Here are five ways the program is combating poverty in the Philippines.</h3>
 </body>
 </html>
