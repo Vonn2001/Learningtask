@@ -1,0 +1,67 @@
+
+body
+{
+  font-family: "Open Sans";
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5ff;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+	font-size: 50px;
+	margin: 150px;
+display: flex;
+    justify-content: center;
+    
+}
+
+.container {
+    background-color: white;
+    height: 90px;
+    width: 260px;
+    position: absolute;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 8px -2px #444444;
+}
+input[type="radio"] {
+    display: none;
+}
+.label1 , .label2 {
+    display: block;
+    height: 180px;
+    width: 130px;
+    background: linear-gradient(
+                to bottom,
+                white 0, white 90px,
+                #2c2c2c 90px, #2c2c2c 180px
+    );
+    position: absolute;
+    top: 0;
+    color: #55AAFF;
+    transition: 0.5s;
+}
+.label2 {
+    right: 0;
+}
+span {
+    display: flex;
+    height: 90px;
+    width: 130px;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+input:checked + label {
+    background-position: 0 -90px;
+    color: white;
+    transition: 0.7s;
+}
